@@ -1,26 +1,22 @@
 # Interfaz del usuario (mockups)
 
-El modelo de la aplicación FitFlow está inspirado en la interfaz de usuario de aplicaciones similares y elaborada bajo Figma. A continuación, mostraré los diseños preliminares de la aplicación.
+El modelo de la aplicación Mototech Academy está inspirado en la interfaz de usuario de aplicaciones similares y elaborada bajo Figma. A continuación, se mostraran los diseños preliminares de la aplicación.
 
-1. Pagina principal inicio (muestra muchas de las funcionalidades de la aplicación) esta compuesta por el usuario y funcionalidades como rutinas, entrenamiento en casa entre otros.
+1. Pagina principal o inicio, muestra la informacion preliminar de la aplicacion como lo es vizualizar los problemas de mecanica, solicitar un mecanico a domicilo entre otras opciones.
 
 <img width="227" alt="pantalla inicio" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/cd9c57c3-5127-4d2d-bf21-1a14750cd080">
 
-2. Videos de rutinas una pantalla donde mostrara una opcion de rutinas especificada por el musculo que se quiere trabajar se prodra seleccionar una rutina y generara una serie de videos especificos.
+2. Los problemas mecanicos es una seccion la cual nos muestra varias opciones para conocer partes la motocicleta, invertigar sobre los fallos mas comunes y entrar al curso de mecanica de nivel basico.
    
 <img width="180" alt="videos de rutina" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/17514e39-c71a-4ae8-8dfa-580a53496a74">
 <img width="175" alt="pecho 1" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/a236a294-4ef5-44ce-86bd-f48d730f220a">
 
-Al seleccionar una rutina pedira un nivel de entrenamiento que puede ser desde pricipiante hasta avanzado, al seleccionarlo nos dara la opción de iniciar con la rutina mostrando una serie de ejercicios a realizar. 
+Al seleccionar la opcion de partes de tu moto se van a mostrar diferentes sistemas del vehiculo como las llantas, kit de arrastre, chasis entre otros, desplegando una lista de videos los cuales contienen informacion de mantenimentos preventivos y correctivos, ademas de consejos para aumentar la longevidad de estos sistemas. 
 
 <img width="175" alt="pecho 2" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/e06da12c-6ce9-47df-aca5-bf141fb82bcb">
 <img width="173" alt="pecho 3" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/a1b7aa7a-7a59-42bd-848a-b3b1b2e3960b">
 
-De los cuales cada uno de esos sera visible con un video tutorial importado directamente en la aplicación.
-
-<img width="175" alt="pecho 4" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/f4c89009-d26c-4f54-9207-82b15a30f8ae">
-
-3. Reto diario estara diseñado para crear una tarea todos los dias con el objetivo de mantener al usuario en actividad ficia todos los dias con incentivos como los son el conteo de días realizados.
+3. El aprendizaje diario incita al usuario para aprender algo nuevo todos los dias sobre su moto o de mecanica en general obteniendo un incetivo el cual es una racha que va aumentando si cumple con el apredizaje todos los dias.
 
 <img width="184" alt="reto diario" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/0b79fd98-9664-4e81-bdfb-0102d5ffcaba">
 
